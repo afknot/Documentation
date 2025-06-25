@@ -2,6 +2,6 @@
 
 Please explore what we have to offer here!
 
-* [use-of-ai.md](https://use-of-ai.md)
+* [Use of AI](https://github.com/afknot/Documentation/blob/main/use-of-ai.md)
 
 
