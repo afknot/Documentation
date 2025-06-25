@@ -1,10 +1,17 @@
 # Use of AI
 
-Below you'll find some helpful tips for using AI.
+Below is a helpful guide for designers.
 
-## For Designers:
+## For Designers
 
-- Don't use AI tools for designing layouts
-- Do use AI to help give you layout ideas and help with hierarchy 
+* Do this
+* Don’t do this
 
-For any questions contact me! info@afknot.com
+
+
+:::tip
+Be sure to use this for good, not evil.
+
+:::
+
+
