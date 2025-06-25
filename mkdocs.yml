@@ -1,0 +1,7 @@
+site_name: "afknot Documentation"
+nav:
+  - Home: index.md
+  # Add more pages here, e.g.:
+  # - Guide: guide.md
+theme:
+  name: mkdocs
